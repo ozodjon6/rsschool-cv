@@ -8,7 +8,7 @@ Ozodbek Jumaev
 - e-mail: ozodjon6@gmail.com
 
 ## About
-I am Junior Front-End developer. I have been working as a layout designer for more than 4 months. My goal is to become strong Front-End developers in the future. So I like to take various interesting courses. I like to do sports often
+I am Junior Front-End developer. I have been working as a layout designer for more than 4 months. My goal is to become strong Front-End developers in the future. So I like to take various interesting courses. I like to do sports often.
 
 ## Skills
 - HTML
@@ -35,9 +35,9 @@ I am Junior Front-End developer. I have been working as a layout designer for mo
 - [HTML/CSS/Javascript template for Sedona](https://github.com/ozodjon6/Sedona)
 
 ## Education
-- 2013-2016 Secondary special
-- Participant certificate: The largest online conference on web development in the CIS GlO ACADEMY
-- 2020 October JS/FE 2020 Q3 (Completed) PS:just not completely
+- 2013-2016 Secondary special.
+- Participant certificate: The largest online conference on web development in the CIS GlO ACADEMY.
+- 2020 October JS/FE 2020 Q3 (Completed) PS:just not completely.
 
 ## English language
 - A2
