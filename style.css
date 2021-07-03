@@ -105,13 +105,97 @@ body, html {
     color: #175599;
 }
 
+.info__content-strong {
+    color: #175599;
+    display: inline-block
+}
+
 /* experience__heading */
 
 .experience__heading {
     margin-bottom: 24px;
+    line-height: 32px;
+    font-weight: 500;
 }
 
 .experience__title {
     border-bottom: 1px solid #d4d4d4;
     padding-bottom: 6px;
+}
+
+.experience__step-item {
+    display: flex;
+    align-items: flex-start;
+}
+
+.experience__step-item strong {
+    width: 80px;
+}
+
+.experience__step-list {
+    margin: 0;
+}
+
+.experience__step-list-item {
+    margin-bottom: 24px;
+}
+
+.experience__step-list-link {
+    display: block;
+    text-decoration: none;
+    color: #175599;
+    transition: all 0.3s ease-in-out;
+}
+
+.experience__step-list-link:hover {
+    text-decoration: underline;
+}
+
+.info__content-list {
+    padding-left: 0;
+}
+
+/* footer-page */
+
+.footer-page {
+    padding: 12px 48px;
+    background-color: #182E45;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.social-list {
+    margin: 0;
+    padding: 0;
+    display:flex;
+    align-items: center;
+    list-style: none;
+}
+
+.social-list__item {
+    margin-right: 18px;
+}
+
+.social-list__link {
+    display: inline-block;
+}
+
+.social-list__link i {
+    font-size: 28px;
+    color: #fff;
+    display: inline-block;
+    transition: all 0.3s;
+}
+
+.social-list__link i:hover {
+    color: #175599;
+}
+
+.bootom-logo {
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 38px;
+    position: relative;
 }
